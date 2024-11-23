@@ -1,0 +1,62 @@
+/*
+ * Font file created by Local Google Fonts 0.11
+ * Created: Wed, 24 Aug 2022 08:16:19 +0000
+ * Handle: structurepress-google-fonts
+*/
+
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-display: fallback;
+	src: url('roboto-v30-latin-regular.eot?v=1661328979');
+	src: local(''),
+		url('roboto-v30-latin-regular.eot?v=1661328979?#iefix') format('embedded-opentype'),
+		url('roboto-v30-latin-regular.woff2?v=1661328979') format('woff2'),
+		url('roboto-v30-latin-regular.woff?v=1661328979') format('woff'),
+		url('roboto-v30-latin-regular.ttf?v=1661328979') format('truetype'),
+		url('roboto-v30-latin-regular.svg?v=1661328979#Roboto') format('svg');
+}
+
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-display: fallback;
+	src: url('roboto-v30-latin-700.eot?v=1661328979');
+	src: local(''),
+		url('roboto-v30-latin-700.eot?v=1661328979?#iefix') format('embedded-opentype'),
+		url('roboto-v30-latin-700.woff2?v=1661328979') format('woff2'),
+		url('roboto-v30-latin-700.woff?v=1661328979') format('woff'),
+		url('roboto-v30-latin-700.ttf?v=1661328979') format('truetype'),
+		url('roboto-v30-latin-700.svg?v=1661328979#Roboto') format('svg');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-display: fallback;
+	src: url('open-sans-v34-latin-regular.eot?v=1661328979');
+	src: local(''),
+		url('open-sans-v34-latin-regular.eot?v=1661328979?#iefix') format('embedded-opentype'),
+		url('open-sans-v34-latin-regular.woff2?v=1661328979') format('woff2'),
+		url('open-sans-v34-latin-regular.woff?v=1661328979') format('woff'),
+		url('open-sans-v34-latin-regular.ttf?v=1661328979') format('truetype'),
+		url('open-sans-v34-latin-regular.svg?v=1661328979#OpenSans') format('svg');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-display: fallback;
+	src: url('open-sans-v34-latin-700.eot?v=1661328979');
+	src: local(''),
+		url('open-sans-v34-latin-700.eot?v=1661328979?#iefix') format('embedded-opentype'),
+		url('open-sans-v34-latin-700.woff2?v=1661328979') format('woff2'),
+		url('open-sans-v34-latin-700.woff?v=1661328979') format('woff'),
+		url('open-sans-v34-latin-700.ttf?v=1661328979') format('truetype'),
+		url('open-sans-v34-latin-700.svg?v=1661328979#OpenSans') format('svg');
+}
+
